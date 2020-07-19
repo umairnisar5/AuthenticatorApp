@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "325728941925",
+    "firebase_url": "https://login-register-83674.firebaseio.com",
+    "project_id": "login-register-83674",
+    "storage_bucket": "login-register-83674.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325728941925:android:89219d7808abf08d6f138c",
+        "android_client_info": {
+          "package_name": "com.example.authenticatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325728941925-kskfi3l0i1fcc8e5k7iglv569t6tbpl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkFv2nu4geTyvVCLgUYKFk4318SMYVS_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325728941925-kskfi3l0i1fcc8e5k7iglv569t6tbpl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
